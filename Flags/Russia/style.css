@@ -1,0 +1,38 @@
+
+
+body {
+    margin: 20vh auto;
+    background-color: #000;
+}
+
+.flag-name {
+    color: #fff;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.flag {
+    height: 300px;
+    width: 500px;
+    display: flex;
+    margin:auto;
+    flex-direction: column;
+}
+
+.stripe {
+    flex: 1;
+    background-color: #fff;
+}
+
+.stripe-white {
+    background-color: #fff;
+}
+
+.stripe-blue {
+    background-color: #0000ff;
+}
+
+.stripe-red {
+    background-color: #ff0000;
+}
+
